@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="refresh" content="10" />
-<title>Jean-Noel  Nyirisheja</title>
+<title>NOEL UMUSWA</title>
 
 </head>
 
